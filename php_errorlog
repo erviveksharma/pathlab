@@ -1,0 +1,4 @@
+[07-Nov-2015 00:39:29 CST6CDT] PHP Fatal error:  Call to undefined function ebefined() in /home/provisde/public_html/pathlab/application/libraries/MY_Email.php on line 1
+[07-Nov-2015 03:44:29 CST6CDT] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/provisde/public_html/pathlab/application/controllers/Home.php on line 193
+[07-Nov-2015 03:45:09 CST6CDT] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/provisde/public_html/pathlab/application/controllers/Home.php on line 193
+[07-Nov-2015 03:47:26 CST6CDT] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/provisde/public_html/pathlab/application/controllers/Home.php on line 193

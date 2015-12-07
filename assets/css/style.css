@@ -1,0 +1,13 @@
+.navbar {
+    position: relative;
+}
+
+.container.pathlab-container {
+	min-height: 508px;
+}
+
+.footer {
+    background: #222;
+    color: #fff;
+    padding: 10px;
+}
